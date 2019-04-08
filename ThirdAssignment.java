@@ -1,5 +1,5 @@
 import java.util.*;
-//import
+
 
 public class ThirdAssignment {
 
@@ -11,7 +11,7 @@ public class ThirdAssignment {
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
 
-        int n;//for ...
+        int n;
 
         System.out.println("pleas inter number for matrix:");
         n = sc.nextInt();
